@@ -61,7 +61,7 @@ The Structure tree is a nodetype tree which gives you detailed information of ho
 It gives you information about which type, its position and its nesting level. This can also be used to navigate
 the content of a page.
 
-The content canvas
+The Content Canvas
 ------------------
 
 The content canvas is where you can add/edit your content.
